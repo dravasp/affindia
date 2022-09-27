@@ -27,6 +27,6 @@ Spread and Reach
 		- Linktree
 		- bit.ly
 		
-Patreon, Flote, Steemit, Hive and Minds.com, in association with BitChute and Lbry
+Patreon, Flote, Steemit, Hive and Minds.com, in association with BitChute and Lbry - Odysee
 
 Work with me to heal your health : thrivefnc.com/programs

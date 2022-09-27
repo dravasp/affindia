@@ -10,4 +10,4 @@ Package is without Support
 
 ## Reporting a Vulnerability
 
-Report a vulnerability - Check you have RSS Feed Enabled for YouTube India
+Report a vulnerability - Check you have atom RSS Feed Enabled for YouTube India

@@ -1,0 +1,1 @@
+While we strive to make this project Open-source, we'd request you to connect with our experts for licensing and contributing for growth and scale.
